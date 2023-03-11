@@ -25,25 +25,48 @@ My research interest is 3D reconstruction and keypoint estimation.
 
 
 # 🔥 News
+- *2023.02*: &nbsp;🎉🎉 Our paper "High Fidelity 3D Hand Shape Reconstruction via Scalable Graph Frequency Decomposition" is accept by CVPR 2023! Preprint paper and code will be released soon.
 - *2022.05*: &nbsp;🎉🎉 I will join [Innopeak](https://www.innopeaktech.com/) as research intern this summer.
-- *2021.03*: &nbsp;🎉🎉 I'm going to work in University at Buffalo [University at Buffalo](https://www.buffalo.edu/) as a Ph.D. student, advised by [Prof. Junsong Yuan](https://cse.buffalo.edu/~jsyuan/).
-- *2020.12*: &nbsp;🎉🎉  Our paper "PC-HMR: Pose Calibration for 3D Human Mesh Recovery from 2D Images-Videos" is accepted to AAAI2021. 
 
 
-# 📝 Publication
+# 📝 Selected Publication
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2021</div><img src='images/papers/PC-HMR.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/papers/High-fidelity-hand.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomposition
+**Tianyu Luan**, Yuanhao Zhai, Jingjing Meng, Zhong Li, Zhang Chen, Yi Xu, and Junsong Yuan
+[PDF]() [Code]() [Bibtex]() -->
 
-[PC-HMR: Pose Calibration for 3D Human Mesh Recovery from 2D Images/Videos](https://ojs.aaai.org/index.php/AAAI/article/view/16326/16133)
 
-**Tianyu Luan**, Yali Wang, Junhao Zhang, Zhe Wang, Zhipeng Zhou, Yu Qiao
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div><div class="badge">CVPR 2023</div><img src='images/papers/High-fidelity-hand.png' alt="sym" width="100%"></div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **<font size=3><font face="Times New Roman">High Fidelity 3D Hand Shape Reconstruction via Scalable Graph Frequency Decomposition</font></font>**
+
+  **<font face="Times New Roman">Tianyu Luan</font>**<font face="Times New Roman">, Yuanhao Zhai, Jingjing Meng, Zhong Li, Zhang Chen, Yi Xu, and Junsong Yuan.</font>
+
+  [\[PDF\]]() [\[Code\]]() [\[Bibtex\]]()
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div><div class="badge">AAAI 2021</div><img src='images/papers/PC-HMR.png' alt="sym" width="100%"></div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **<font size=3><font face="Times New Roman">PC-HMR: Pose Calibration for 3D Human Mesh Recovery from 2D Images/Videos</font></font>**
+
+  **<font face="Times New Roman">Tianyu Luan</font>**<font face="Times New Roman">, Yali Wang, Junhao Zhang, Zhe Wang, Zhipeng Zhou, and Yu Qiao.</font>
+
+  [\[PDF\]](https://ojs.aaai.org/index.php/AAAI/article/view/16326/16133) [\[Bibtex\]](https://scholar.googleusercontent.com/scholar.bib?q=info:4lzK9xf0e78J:scholar.google.com/&output=citation&scisdr=CgXmzFsbELDBw5NYnoQ:AAGBfm0AAAAAZAxehoQ9-gBUIKEdmF-1x7XFYksbph3D&scisig=AAGBfm0AAAAAZAxehrPkVkmlqPB0eHbs7uUsJZ7eHaMi&scisf=4&ct=citation&cd=-1&hl=en)
+  </div>
+</div>
+
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-</div>
-</div>
-
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 

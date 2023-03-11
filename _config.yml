@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Tianyu Luan (栾天宇)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : 
-  location         : "Buffalo, NY, United States"
+  cv               : "pdfs/CV_Tianyu_Luan.pdf"
+  location         : "Buffalo, NY, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=XNzPzTIAAAAJ"
