@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Tianyu Luan's Homepage"
-description              : "Ph.D. student"
+description              : "Ph.D. Candidate"
 repository               : "tyluann/tyluann.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Tianyu Luan (栾天宇)"
   avatar           : "images/android-chrome-512x512.png"
-  cv               : "pdfs/CV_Tianyu_Luan.pdf"
-  location         : "Buffalo, NY, USA"
+  cv               : "pdfs/CV_Tianyu_Luan_2312.pdf"
+  location         : "Buffalo NY, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=XNzPzTIAAAAJ"
