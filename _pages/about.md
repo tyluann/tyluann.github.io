@@ -27,7 +27,7 @@ My research interest focuses 3D reconstruction.
 # 🔥 News
 - *2024.03*: &nbsp; I'm currently looking for 2024 Summer Internship in the field of Human alignment and Generative AI. If you are interested, feel free to send me an email at tianyulu AT buffalo.edu !
 - *2024.02*: &nbsp;🎉🎉 Three paper accepted by CVPR 2024!
-- *2024.02*: &nbsp;🎉🎉 I will join [UII America](https://www.uii-ai.com/) as research intern this spring for the 2dn time!
+- *2024.02*: &nbsp;🎉🎉 I will join [UII America](https://www.uii-ai.com/) as research intern this spring for the 2nd time!
 - *2023.07*: &nbsp;🎉🎉 One paper accepted by ICCV 2023!
 - *2023.05*: &nbsp;🎉🎉 I will join [UII America](https://www.uii-ai.com/) as research intern this summer!
 - *2023.02*: &nbsp;🎉🎉 Our paper "High Fidelity 3D Hand Shape Reconstruction via Scalable Graph Frequency Decomposition" is accept by CVPR 2023! Preprint paper and code will be released soon.
@@ -124,7 +124,7 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
   <div class='paper-box-text' markdown="1">
   **<font size=3><font face="Times New Roman">PC-HMR: Pose Calibration for 3D Human Mesh Recovery from 2D Images/Videos</font></font>**
 
-  **<font face="Times New Roman">Tianyu Luan</font>**<font face="Times New Roman">, Yali Wang, Junhao Zhang, Zhe Wang, Zhipeng Zhou, and Yu Qiao. <em>AAAI 2021.</em></font>
+  **<font face="Times New Roman">Tianyu Luan*</font>**<font face="Times New Roman">, Yali Wang*, Junhao Zhang*, Zhe Wang, Zhipeng Zhou, and Yu Qiao. <em>AAAI 2021.</em></font>
 
   [\[PDF\]](https://ojs.aaai.org/index.php/AAAI/article/view/16326/16133) [\[Bibtex\]](https://scholar.googleusercontent.com/scholar.bib?q=info:4lzK9xf0e78J:scholar.google.com/&output=citation&scisdr=CgXmzFsbELDBw5NYnoQ:AAGBfm0AAAAAZAxehoQ9-gBUIKEdmF-1x7XFYksbph3D&scisig=AAGBfm0AAAAAZAxehrPkVkmlqPB0eHbs7uUsJZ7eHaMi&scisf=4&ct=citation&cd=-1&hl=en)
   </div>
@@ -146,11 +146,11 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
 <span class='anchor' id='experiences'></span>
 
 # 💻 Experiences
-- *2024.02 - present*, Reseach Intern, [United Imaging Intelligence](https://usa.united-imaging.com/), Burlington, MA, United States
-- *2023.05 - 2023.08*, Reseach Intern, [United Imaging Intelligence](https://usa.united-imaging.com/), Cambridge, MA, United States
-- *2022.05 - 2022.08*, Reseach Intern, [InnoPeak Technology](https://www.innopeaktech.com/), Palo Alto, CA, United States
-- *2019.07 - 2021.06*, Reseach Assistant, [Chinese Academy of Sciences](https://english.cas.cn/), Shenzhen, Guangdong, China
-- *2017.05 - 2019.04*, Software Engineer, [HUAWEI](https://www.huawei.com/en/), Shenzhen, Guangdong, China
+- *2024.02 - present*, Reseach Intern, [United Imaging Intelligence](https://usa.united-imaging.com/), Burlington, MA, United States. <br> Working with [Dr. Zhongpai Gao](https://sites.google.com/site/gaozhongpai) and [Dr. Ziyan Wu](http://wuziyan.com/).
+- *2023.05 - 2023.08*, Reseach Intern, [United Imaging Intelligence](https://usa.united-imaging.com/), Cambridge, MA, United States. <br> Worked with [Dr. Zhongpai Gao](https://sites.google.com/site/gaozhongpai) and [Dr. Ziyan Wu](http://wuziyan.com/).
+- *2022.05 - 2022.08*, Reseach Intern, [InnoPeak Technology](https://www.innopeaktech.com/), Palo Alto, CA, United States. <br> Worked with [Dr. Zhong Li](https://sites.google.com/site/lizhong19900216) and [Dr. Yi Xu](https://www.linkedin.com/in/yi-xu-42654823/).
+- *2019.07 - 2021.06*, Reseach Assistant, [Chinese Academy of Sciences](https://english.cas.cn/), Shenzhen, Guangdong, China. <br> Worked with [Prof. Yali Wang](https://scholar.google.com/citations?user=hD948dkAAAAJ&hl=zh-CN) and [Prof. Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ&hl=en).
+- *2017.05 - 2019.04*, Software Engineer, [HUAWEI](https://www.huawei.com/en/), Shenzhen, Guangdong, China.
 
 <span class='anchor' id='educations'></span>
 
