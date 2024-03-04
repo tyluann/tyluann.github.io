@@ -1,1 +1,1 @@
-bundle exec jekyll liveserver
+bundle exec jekyll liveserver --host 128.205.43.194

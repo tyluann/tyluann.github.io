@@ -25,6 +25,11 @@ My research interest focuses 3D reconstruction.
 <span class='anchor' id='news'></span>
 
 # 🔥 News
+- *2024.03*: &nbsp; I'm currently looking for 2024 Summer Internship in the field of Human alignment and Generative AI. If you are interested, feel free to send me an email at tianyulu AT buffalo.edu !
+- *2024.02*: &nbsp;🎉🎉 Three paper accepted by CVPR 2024!
+- *2024.02*: &nbsp;🎉🎉 I will join [UII America](https://www.uii-ai.com/) as research intern this spring for the 2dn time!
+- *2023.07*: &nbsp;🎉🎉 One paper accepted by ICCV 2023!
+- *2023.05*: &nbsp;🎉🎉 I will join [UII America](https://www.uii-ai.com/) as research intern this summer!
 - *2023.02*: &nbsp;🎉🎉 Our paper "High Fidelity 3D Hand Shape Reconstruction via Scalable Graph Frequency Decomposition" is accept by CVPR 2023! Preprint paper and code will be released soon.
 - *2022.05*: &nbsp;🎉🎉 I will join [Innopeak](https://www.innopeaktech.com/) as research intern this summer.
 
@@ -39,6 +44,52 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
 **Tianyu Luan**, Yuanhao Zhai, Jingjing Meng, Zhong Li, Zhang Chen, Yi Xu, and Junsong Yuan
 [PDF]() [Code]() [Bibtex]() -->
 
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div><div class="badge">CVPR 2024</div><img src='images/papers/CVPR24_metric.png' alt="sym" width="100%"></div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **<font size=3><font face="Times New Roman">Spectrum AUC Difference (SAUCD): Human-aligned 3D Shape Evaluation</font></font>**
+
+  <font face="Times New Roman"><b>Tianyu Luan</b>, Zhong Li, Lele Chen, Xuan Gong, Lichang Chen, Yi Xu, Junsong Yuan, and Junsong Yuan. </font>
+  <font face="Times New Roman"><em>CVPR 2024.</em></font>
+
+  [\[PDF\]]() [\[Project\]](https://bit.ly/saucd) [\[Code\]]() <!-- [\[Bibtex\]]() -->
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div><div class="badge">CVPR 2024</div><img src='images/papers/CVPR24_PC.png' alt="sym" width="100%"></div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **<font size=3><font face="Times New Roman">FSC: Few-point Shape Completion</font></font>**
+
+  <font face="Times New Roman">Xianzu Wu∗, Xianfeng Wu∗, <b>Tianyu Luan*</b>, Yajing Bai, Zhongyuan Lai, and Junsong Yuan.</font>
+
+  <font face="Times New Roman"><em>CVPR 2024.</em></font>
+
+  [\[PDF\]]() [\[Project\]]() [\[Code\]]() <!-- [\[Bibtex\]]() -->
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div><div class="badge">CVPR 2024</div><img src='images/papers/CVPR24_nerf.png' alt="sym" width="100%"></div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **<font size=3><font face="Times New Roman">DaReNeRF: Direction-aware Representation for Dynamic Scenes</font></font>**
+
+  <font face="Times New Roman">Ange Lou, Benjamin Planche, Zhongpai Gao, Yamin Li, <b>Tianyu Luan</b>, Hao Ding, Terrence Chen, Jack Noble, and Ziyan Wu.</font>
+
+  <font face="Times New Roman"><em>CVPR 2024.</em></font>
+
+  [\[PDF\]]() [\[Project\]]() [\[Code\]]() <!-- [\[Bibtex\]]() -->
+  </div>
+</div>
+
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div><div class="badge">ICCV 2023</div><img src='images/papers/ICCV23.png' alt="sym" width="100%"></div>
@@ -46,7 +97,7 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
   <div class='paper-box-text' markdown="1">
   **<font size=3><font face="Times New Roman">Towards Generic Image Manipulation Detection with Weakly-Supervised Self-Consistency Learning</font></font>**
 
-  <font face="Times New Roman">Yuanhao Zhai, <b>Tianyu Luan</b>, David Doermann, and Junsong Yuan.</font>
+  <font face="Times New Roman">Yuanhao Zhai, <b>Tianyu Luan</b>, David Doermann, and Junsong Yuan. <em>ICCV 2023.</em></font>
 
   [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhai_Towards_Generic_Image_Manipulation_Detection_with_Weakly-Supervised_Self-Consistency_Learning_ICCV_2023_paper.pdf) [\[Code\]](https://github.com/yhZhai/WSCL) [\[Bibtex\]](https://scholar.googleusercontent.com/scholar.bib?q=info:n1I-9B1nxw0J:scholar.google.com/&output=citation&scisdr=ClH1ZfLwEJDI2yqqf20:AFWwaeYAAAAAZYGsZ23MpV74K1-ln4WldSPJdEU&scisig=AFWwaeYAAAAAZYGsZyBVVoSWge4K9uUtPSm74kk&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
   </div>
@@ -60,7 +111,7 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
   <div class='paper-box-text' markdown="1">
   **<font size=3><font face="Times New Roman">High Fidelity 3D Hand Shape Reconstruction via Scalable Graph Frequency Decomposition</font></font>**
 
-  **<font face="Times New Roman">Tianyu Luan</font>**<font face="Times New Roman">, Yuanhao Zhai, Jingjing Meng, Zhong Li, Zhang Chen, Yi Xu, and Junsong Yuan.</font>
+  **<font face="Times New Roman">Tianyu Luan</font>**<font face="Times New Roman">, Yuanhao Zhai, Jingjing Meng, Zhong Li, Zhang Chen, Yi Xu, and Junsong Yuan. <em>CVPR 2023.</em></font>
 
   [\[PDF\]](https://openaccess.thecvf.com/content/CVPR2023/papers/Luan_High_Fidelity_3D_Hand_Shape_Reconstruction_via_Scalable_Graph_Frequency_CVPR_2023_paper.pdf) [\[Code\]](https://github.com/tyluann/FreqHand) [\[Bibtex\]](https://scholar.googleusercontent.com/scholar.bib?q=info:TkgP5GwdpD8J:scholar.google.com/&output=citation&scisdr=ClH1ZfLwEJDI2yqtzQQ:AFWwaeYAAAAAZYGr1QQgNSRtQUCzXEw9aiMxx64&scisig=AFWwaeYAAAAAZYGr1bu_wiXZNRrtad3F4HTLLAI&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
   </div>
@@ -73,40 +124,37 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
   <div class='paper-box-text' markdown="1">
   **<font size=3><font face="Times New Roman">PC-HMR: Pose Calibration for 3D Human Mesh Recovery from 2D Images/Videos</font></font>**
 
-  **<font face="Times New Roman">Tianyu Luan</font>**<font face="Times New Roman">, Yali Wang, Junhao Zhang, Zhe Wang, Zhipeng Zhou, and Yu Qiao.</font>
+  **<font face="Times New Roman">Tianyu Luan</font>**<font face="Times New Roman">, Yali Wang, Junhao Zhang, Zhe Wang, Zhipeng Zhou, and Yu Qiao. <em>AAAI 2021.</em></font>
 
   [\[PDF\]](https://ojs.aaai.org/index.php/AAAI/article/view/16326/16133) [\[Bibtex\]](https://scholar.googleusercontent.com/scholar.bib?q=info:4lzK9xf0e78J:scholar.google.com/&output=citation&scisdr=CgXmzFsbELDBw5NYnoQ:AAGBfm0AAAAAZAxehoQ9-gBUIKEdmF-1x7XFYksbph3D&scisig=AAGBfm0AAAAAZAxehrPkVkmlqPB0eHbs7uUsJZ7eHaMi&scisf=4&ct=citation&cd=-1&hl=en)
   </div>
 </div>
 
 
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+<span class='anchor' id='teaching'></span>
 
+# Teaching
+- *21 Fall*, Teaching Assistant, Computer Vision and Image Processing (CSE 573), University at Buffalo.
+- *22 Spring*, Teaching Assistant, Computer Vision and Image Processing (CSE 573), University at Buffalo.
+- *22 Fall*, Teaching Assistant, Computer Vision and Image Processing (CSE 573), University at Buffalo.
 
-<span class='anchor' id='educations'></span>
+<span class='anchor' id='service'></span>
 
-# 📖 Educations
-- *2021.08 - now*, Ph.D. in Computer Science, [University at Buffalo](https://www.buffalo.edu/), Buffalo, NY, United States
-- *2014.09 - 2017.06*, M.Eng. in Electronical Engineering, [Tsinghua University](https://www.tsinghua.edu.cn/en/), Beijing, China
-- *2009.08 - 2013.07*, B.S. in Applied Physics, [University of Science and Technology of China](https://en.ustc.edu.cn/), Hefei, Anhui, China
-
-
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
-
+# Service
+- *Conference Reviews:* CVPR'23'24, ICCV'23, ECCV'24, ACM MM'24.
+  
 <span class='anchor' id='experiences'></span>
 
 # 💻 Experiences
+- *2024.02 - present*, Reseach Intern, [United Imaging Intelligence](https://usa.united-imaging.com/), Burlington, MA, United States
 - *2023.05 - 2023.08*, Reseach Intern, [United Imaging Intelligence](https://usa.united-imaging.com/), Cambridge, MA, United States
 - *2022.05 - 2022.08*, Reseach Intern, [InnoPeak Technology](https://www.innopeaktech.com/), Palo Alto, CA, United States
 - *2019.07 - 2021.06*, Reseach Assistant, [Chinese Academy of Sciences](https://english.cas.cn/), Shenzhen, Guangdong, China
 - *2017.05 - 2019.04*, Software Engineer, [HUAWEI](https://www.huawei.com/en/), Shenzhen, Guangdong, China
+
+<span class='anchor' id='educations'></span>
+
+# 📖 Educations
+- *2021.08 - present*, Ph.D. candidate in Computer Science, [University at Buffalo](https://www.buffalo.edu/), Buffalo, NY, United States
+- *2014.09 - 2017.06*, M.Eng. in Electronical Engineering, [Tsinghua University](https://www.tsinghua.edu.cn/en/), Beijing, China
+- *2009.08 - 2013.07*, B.S. in Applied Physics, [University of Science and Technology of China](https://en.ustc.edu.cn/), Hefei, Anhui, China
