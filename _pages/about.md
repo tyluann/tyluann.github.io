@@ -58,7 +58,7 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
   <font face="Times New Roman"><b>Tianyu Luan</b>, Zhong Li, Lele Chen, Xuan Gong, Lichang Chen, Yi Xu, Junsong Yuan, and Junsong Yuan. </font>
   <font face="Times New Roman"><em>CVPR 2024.</em></font>
 
-  [\[PDF\]]() [\[Project\]](https://bit.ly/saucd) [\[Code\]]() <!-- [\[Bibtex\]]() -->
+  [\[PDF\]](https://arxiv.org/pdf/2403.01619) [\[Bibtex\]](https://scholar.googleusercontent.com/scholar.bib?q=info:2uotqlIyYMIJ:scholar.google.com/&output=citation&scisdr=ClH3cxfxEMHcyF-8OFA:AFWwaeYAAAAAZfC6IFBugv00hHNPTP_kzLX72xQ&scisig=AFWwaeYAAAAAZfC6IFgOpELx7sZxx_dCk-qj4Vo&scisf=4&ct=citation&cd=-1&hl=en) [\[Project (Coming Soon)\]](https://bit.ly/saucd)  [\[Code (Coming Soon)\]]() <!-- [\[Bibtex\]]() -->
   </div>
 </div>
 
@@ -73,7 +73,7 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
 
   <font face="Times New Roman"><em>CVPR 2024.</em></font>
 
-  [\[PDF\]]() [\[Project\]]() [\[Code\]]() <!-- [\[Bibtex\]]() -->
+  [\[PDF (Coming Soon)\]]() [\[Project (Coming Soon)\]]() [\[Code (Coming Soon)\]]() <!-- [\[Bibtex\]]() -->
   </div>
 </div>
 
@@ -88,7 +88,7 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
 
   <font face="Times New Roman"><em>CVPR 2024.</em></font>
 
-  [\[PDF\]]() [\[Project\]]() [\[Code\]]() <!-- [\[Bibtex\]]() -->
+  [\[PDF\]](https://arxiv.org/pdf/2403.02265) [\[Bibtex\]](https://scholar.googleusercontent.com/scholar.bib?q=info:KsziznvBNDwJ:scholar.google.com/&output=citation&scisdr=ClH3cxfxEMHcyF-8RAY:AFWwaeYAAAAAZfC6XAaeb6i08KDzd6D6lvbUz-k&scisig=AFWwaeYAAAAAZfC6XH_P-6a84PwKWNlJOQs6SuA&scisf=4&ct=citation&cd=-1&hl=en) [\[Video\]](https://www.youtube.com/watch?v=hYQsl6Rbxn4) [\[Project (Coming Soon)\]]() [\[Code (Coming Soon)\]]() <!-- [\[Bibtex\]]() -->
   </div>
 </div>
 
@@ -102,7 +102,7 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
 
   <font face="Times New Roman">Yuanhao Zhai, <b>Tianyu Luan</b>, David Doermann, and Junsong Yuan. <em>ICCV 2023.</em></font>
 
-  [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhai_Towards_Generic_Image_Manipulation_Detection_with_Weakly-Supervised_Self-Consistency_Learning_ICCV_2023_paper.pdf) [\[Code\]](https://github.com/yhZhai/WSCL) [\[Bibtex\]](https://scholar.googleusercontent.com/scholar.bib?q=info:n1I-9B1nxw0J:scholar.google.com/&output=citation&scisdr=ClH1ZfLwEJDI2yqqf20:AFWwaeYAAAAAZYGsZ23MpV74K1-ln4WldSPJdEU&scisig=AFWwaeYAAAAAZYGsZyBVVoSWge4K9uUtPSm74kk&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
+  [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhai_Towards_Generic_Image_Manipulation_Detection_with_Weakly-Supervised_Self-Consistency_Learning_ICCV_2023_paper.pdf) [\[Code\]](https://github.com/yhZhai/WSCL) [\[Bibtex\]](https://scholar.googleusercontent.com/scholar.bib?q=info:n1I-9B1nxw0J:scholar.google.com/&output=citation&scisdr=ClH3cxfxEMHcyF-8-gI:AFWwaeYAAAAAZfC64gIGzmD7AF4y0nvseVTEgSQ&scisig=AFWwaeYAAAAAZfC64nm51chShFYdFDdqc0Q5PTk&scisf=4&ct=citation&cd=-1&hl=en)
   </div>
 </div>
 
@@ -116,7 +116,7 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
 
   **<font face="Times New Roman">Tianyu Luan</font>**<font face="Times New Roman">, Yuanhao Zhai, Jingjing Meng, Zhong Li, Zhang Chen, Yi Xu, and Junsong Yuan. <em>CVPR 2023.</em></font>
 
-  [\[PDF\]](https://openaccess.thecvf.com/content/CVPR2023/papers/Luan_High_Fidelity_3D_Hand_Shape_Reconstruction_via_Scalable_Graph_Frequency_CVPR_2023_paper.pdf) [\[Code\]](https://github.com/tyluann/FreqHand) [\[Bibtex\]](https://scholar.googleusercontent.com/scholar.bib?q=info:TkgP5GwdpD8J:scholar.google.com/&output=citation&scisdr=ClH1ZfLwEJDI2yqtzQQ:AFWwaeYAAAAAZYGr1QQgNSRtQUCzXEw9aiMxx64&scisig=AFWwaeYAAAAAZYGr1bu_wiXZNRrtad3F4HTLLAI&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
+  [\[PDF\]](https://openaccess.thecvf.com/content/CVPR2023/papers/Luan_High_Fidelity_3D_Hand_Shape_Reconstruction_via_Scalable_Graph_Frequency_CVPR_2023_paper.pdf) [\[Code\]](https://github.com/tyluann/FreqHand) [\[Bibtex\]](https://scholar.googleusercontent.com/scholar.bib?q=info:TkgP5GwdpD8J:scholar.google.com/&output=citation&scisdr=ClH3cxfxEMHcyF-8vQk:AFWwaeYAAAAAZfC6pQl8tWvdJ7YFDkrmkV4JIR8&scisig=AFWwaeYAAAAAZfC6pTZJ437aoOraORBGhO8qNqY&scisf=4&ct=citation&cd=-1&hl=en)
   </div>
 </div>
 
@@ -129,7 +129,7 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
 
   **<font face="Times New Roman">Tianyu Luan*</font>**<font face="Times New Roman">, Yali Wang*, Junhao Zhang*, Zhe Wang, Zhipeng Zhou, and Yu Qiao. <em>AAAI 2021.</em></font>
 
-  [\[PDF\]](https://ojs.aaai.org/index.php/AAAI/article/view/16326/16133) [\[Bibtex\]](https://scholar.googleusercontent.com/scholar.bib?q=info:4lzK9xf0e78J:scholar.google.com/&output=citation&scisdr=CgXmzFsbELDBw5NYnoQ:AAGBfm0AAAAAZAxehoQ9-gBUIKEdmF-1x7XFYksbph3D&scisig=AAGBfm0AAAAAZAxehrPkVkmlqPB0eHbs7uUsJZ7eHaMi&scisf=4&ct=citation&cd=-1&hl=en)
+  [\[PDF\]](https://ojs.aaai.org/index.php/AAAI/article/view/16326/16133) [\[Bibtex\]](https://scholar.googleusercontent.com/scholar.bib?q=info:4lzK9xf0e78J:scholar.google.com/&output=citation&scisdr=ClH3cxfxEMHcyF-8ZCc:AFWwaeYAAAAAZfC6fCcA-rqja44YY66Inlm7r70&scisig=AFWwaeYAAAAAZfC6fIr8NjsTbWPWdTmvcISQuew&scisf=4&ct=citation&cd=-1&hl=en)
   </div>
 </div>
 
