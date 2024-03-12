@@ -17,15 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year Ph.D. candidate of [Computer Science & Engineering Department](https://engineering.buffalo.edu/computer-science-engineering.html), [University at Buffalo](https://www.buffalo.edu/), advised by [Prof. Junsong Yuan](https://cse.buffalo.edu/~jsyuan/). 
-My research interest focuses 3D reconstruction.
+<!-- I am a third-year Ph.D. candidate of [Computer Science & Engineering Department](https://engineering.buffalo.edu/computer-science-engineering.html), [University at Buffalo](https://www.buffalo.edu/), advised by [Prof. Junsong Yuan](https://cse.buffalo.edu/~jsyuan/). 
+My research interest focuses 3D reconstruction. -->
+
+# 🧑 Short Bio
+Tianyu Luan is a 3rd-year Ph.D. candidate of [Computer Science & Engineering Department](https://engineering.buffalo.edu/computer-science-engineering.html), [State University of New York at Buffalo](https://www.buffalo.edu/), Buffalo NY, United States, advised by [Prof. Junsong Yuan](https://cse.buffalo.edu/~jsyuan/). He received a B.S. degree in Applied Physics at [University of Science and Technology of China](https://en.ustc.edu.cn/), Hefei Anhui, China in 2013, and M.Eng. degree in Electronical and Telecommunication Engineering at [Tsinghua University](https://www.tsinghua.edu.cn/en/), Beijing, China in 2017. His research interest lies on 3D human perception prior & 3D generation.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 <span class='anchor' id='news'></span>
 
 # 🔥 News
-- *2024.03*: &nbsp; I'm currently looking for 2024 Summer Internship in the field of Human alignment and Generative AI. If you are interested, feel free to send me an email at tianyulu AT buffalo.edu !
+- *2024.03*: &nbsp; I'm currently looking for 2024 Summer Internship in the field of Human alignment and 3D Generation. If you are interested, feel free to send me an email at tianyulu AT buffalo.edu !
 - *2024.02*: &nbsp;🎉🎉 Three paper accepted by CVPR 2024!
 - *2024.02*: &nbsp;🎉🎉 I will join [UII America](https://www.uii-ai.com/) as research intern this spring for the 2nd time!
 - *2023.07*: &nbsp;🎉🎉 One paper accepted by ICCV 2023!
@@ -66,7 +69,7 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
   <div class='paper-box-text' markdown="1">
   **<font size=3><font face="Times New Roman">FSC: Few-point Shape Completion</font></font>**
 
-  <font face="Times New Roman">Xianzu Wu∗, Xianfeng Wu∗, <b>Tianyu Luan*</b>, Yajing Bai, Zhongyuan Lai, and Junsong Yuan.</font>
+  <font face="Times New Roman">Xianzu Wu, Xianfeng Wu, <b>Tianyu Luan</b>, Yajing Bai, Zhongyuan Lai, and Junsong Yuan.</font>
 
   <font face="Times New Roman"><em>CVPR 2024.</em></font>
 
@@ -133,14 +136,14 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
 
 <span class='anchor' id='teaching'></span>
 
-# Teaching
+# 🧑‍🏫 Teaching
 - *21 Fall*, Teaching Assistant, Computer Vision and Image Processing (CSE 573), University at Buffalo.
 - *22 Spring*, Teaching Assistant, Computer Vision and Image Processing (CSE 573), University at Buffalo.
 - *22 Fall*, Teaching Assistant, Computer Vision and Image Processing (CSE 573), University at Buffalo.
 
 <span class='anchor' id='service'></span>
 
-# Service
+# 🫴 Service
 - *Conference Reviews:* CVPR'23'24, ICCV'23, ECCV'24, ACM MM'24.
   
 <span class='anchor' id='experiences'></span>
