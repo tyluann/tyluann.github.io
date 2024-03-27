@@ -21,20 +21,20 @@ redirect_from:
 My research interest focuses 3D reconstruction. -->
 
 # 🧑 Short Bio
-Tianyu Luan is a 3rd-year Ph.D. candidate of [Computer Science & Engineering Department](https://engineering.buffalo.edu/computer-science-engineering.html), [State University of New York at Buffalo](https://www.buffalo.edu/), Buffalo NY, United States, advised by [Prof. Junsong Yuan](https://cse.buffalo.edu/~jsyuan/). He received a B.S. degree in Applied Physics at [University of Science and Technology of China](https://en.ustc.edu.cn/), Hefei Anhui, China in 2013, and M.Eng. degree in Electronical and Telecommunication Engineering at [Tsinghua University](https://www.tsinghua.edu.cn/en/), Beijing, China in 2017. His research interest lies on 3D human perception prior & 3D generation.
+Tianyu Luan is a 3rd-year Ph.D. candidate of [Computer Science & Engineering Department](https://engineering.buffalo.edu/computer-science-engineering.html), [State University of New York at Buffalo](https://www.buffalo.edu/), Buffalo NY, United States, advised by [Prof. Junsong Yuan](https://cse.buffalo.edu/~jsyuan/). He received his B.S. degree in Applied Physics at [University of Science and Technology of China](https://en.ustc.edu.cn/), Hefei Anhui, China in 2013, and his M.Eng. degree in Electronical and Telecommunication Engineering at [Tsinghua University](https://www.tsinghua.edu.cn/en/), Beijing, China in 2017. His research interest lies on 3D human perception prior & 3D generation.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 <span class='anchor' id='news'></span>
 
 # 🔥 News
-- *2024.03*: &nbsp; I'm currently looking for 2024 Summer Internship in the field of Human alignment and 3D Generation. If you are interested, feel free to send me an email at tianyulu AT buffalo.edu !
-- *2024.02*: &nbsp;🎉🎉 Three paper accepted by CVPR 2024!
+- *2024.03*: &nbsp;🎉🎉 I will join [Pixocial](https://pixocial.com/) as research intern this summer!
+- *2024.02*: &nbsp;🎉🎉 Three papers accepted by CVPR 2024, including one first author paper!
 - *2024.02*: &nbsp;🎉🎉 I will join [UII America](https://www.uii-ai.com/) as research intern this spring for the 2nd time!
 - *2023.07*: &nbsp;🎉🎉 One paper accepted by ICCV 2023!
 - *2023.05*: &nbsp;🎉🎉 I will join [UII America](https://www.uii-ai.com/) as research intern this summer!
-- *2023.02*: &nbsp;🎉🎉 Our paper "High Fidelity 3D Hand Shape Reconstruction via Scalable Graph Frequency Decomposition" is accept by CVPR 2023! Preprint paper and code will be released soon.
-- *2022.05*: &nbsp;🎉🎉 I will join [Innopeak](https://www.innopeaktech.com/) as research intern this summer.
+- *2023.02*: &nbsp;🎉🎉 One first author paper accepted by CVPR 2023!
+- *2022.05*: &nbsp;🎉🎉 I will join [OPPO US Research Center](https://www.innopeaktech.com/) as research intern this summer.
 
 
 <span class='anchor' id='publications'></span>
@@ -56,9 +56,9 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
   **<font size=3><font face="Times New Roman">Spectrum AUC Difference (SAUCD): Human-aligned 3D Shape Evaluation</font></font>**
 
   <font face="Times New Roman"><b>Tianyu Luan</b>, Zhong Li, Lele Chen, Xuan Gong, Lichang Chen, Yi Xu, Junsong Yuan, and Junsong Yuan. </font>
-  <font face="Times New Roman"><em>CVPR 2024.</em></font>
+  <font face="Times New Roman"><em>CVPR'2024</em></font>
 
-  [\[PDF\]](https://arxiv.org/pdf/2403.01619) [\[Bibtex\]](https://scholar.googleusercontent.com/scholar.bib?q=info:2uotqlIyYMIJ:scholar.google.com/&output=citation&scisdr=ClH3cxfxEMHcyF-8OFA:AFWwaeYAAAAAZfC6IFBugv00hHNPTP_kzLX72xQ&scisig=AFWwaeYAAAAAZfC6IFgOpELx7sZxx_dCk-qj4Vo&scisf=4&ct=citation&cd=-1&hl=en) [\[Project (Coming Soon)\]](https://bit.ly/saucd)  [\[Code (Coming Soon)\]]() <!-- [\[Bibtex\]]() -->
+  [\[PDF\]](https://arxiv.org/pdf/2403.01619) [\[Bibtex\]](bibtex/CVPR24_metric.html) [\[Project (Coming Soon)\]](https://bit.ly/saucd)  [\[Code (Coming Soon)\]]() <!-- [\[Bibtex\]]() -->
   </div>
 </div>
 
@@ -71,24 +71,24 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
 
   <font face="Times New Roman">Xianzu Wu, Xianfeng Wu, <b>Tianyu Luan</b>, Yajing Bai, Zhongyuan Lai, and Junsong Yuan.</font>
 
-  <font face="Times New Roman"><em>CVPR 2024.</em></font>
+  <font face="Times New Roman"><em>CVPR'2024</em></font>
 
-  [\[PDF (Coming Soon)\]]() [\[Project (Coming Soon)\]]() [\[Code (Coming Soon)\]]() <!-- [\[Bibtex\]]() -->
+  [\[PDF\]](https://arxiv.org/pdf/2403.07359) [\[Bibtex\]](bibtex/CVPR24_PC.html) [\[Project (Coming Soon)\]]() [\[Code (Coming Soon)\]]() <!-- [\[Bibtex\]]() -->
   </div>
 </div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div><div class="badge">CVPR 2024</div><img src='images/papers/CVPR24_nerf.png' alt="sym" width="100%"></div>
+    <div><div class="badge">CVPR 2024</div><img src='images/papers/CVPR24_nerf.gif' alt="sym" width="100%"></div>
   </div>
   <div class='paper-box-text' markdown="1">
   **<font size=3><font face="Times New Roman">DaReNeRF: Direction-aware Representation for Dynamic Scenes</font></font>**
 
   <font face="Times New Roman">Ange Lou, Benjamin Planche, Zhongpai Gao, Yamin Li, <b>Tianyu Luan</b>, Hao Ding, Terrence Chen, Jack Noble, and Ziyan Wu.</font>
 
-  <font face="Times New Roman"><em>CVPR 2024.</em></font>
+  <font face="Times New Roman"><em>CVPR'2024</em></font>
 
-  [\[PDF\]](https://arxiv.org/pdf/2403.02265) [\[Bibtex\]](https://scholar.googleusercontent.com/scholar.bib?q=info:KsziznvBNDwJ:scholar.google.com/&output=citation&scisdr=ClH3cxfxEMHcyF-8RAY:AFWwaeYAAAAAZfC6XAaeb6i08KDzd6D6lvbUz-k&scisig=AFWwaeYAAAAAZfC6XH_P-6a84PwKWNlJOQs6SuA&scisf=4&ct=citation&cd=-1&hl=en) [\[Video\]](https://www.youtube.com/watch?v=hYQsl6Rbxn4) [\[Project (Coming Soon)\]]() [\[Code (Coming Soon)\]]() <!-- [\[Bibtex\]]() -->
+  [\[PDF\]](https://arxiv.org/pdf/2403.02265) [\[Bibtex\]](bibtex/CVPR24_nerf.html) [\[Project (Coming Soon)\]]() [\[Code (Coming Soon)\]]() <!-- [\[Bibtex\]]() -->
   </div>
 </div>
 
@@ -100,9 +100,9 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
   <div class='paper-box-text' markdown="1">
   **<font size=3><font face="Times New Roman">Towards Generic Image Manipulation Detection with Weakly-Supervised Self-Consistency Learning</font></font>**
 
-  <font face="Times New Roman">Yuanhao Zhai, <b>Tianyu Luan</b>, David Doermann, and Junsong Yuan. <em>ICCV 2023.</em></font>
+  <font face="Times New Roman">Yuanhao Zhai, <b>Tianyu Luan</b>, David Doermann, and Junsong Yuan. <em>ICCV'2023</em></font>
 
-  [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhai_Towards_Generic_Image_Manipulation_Detection_with_Weakly-Supervised_Self-Consistency_Learning_ICCV_2023_paper.pdf) [\[Code\]](https://github.com/yhZhai/WSCL) [\[Bibtex\]](https://scholar.googleusercontent.com/scholar.bib?q=info:n1I-9B1nxw0J:scholar.google.com/&output=citation&scisdr=ClH3cxfxEMHcyF-8-gI:AFWwaeYAAAAAZfC64gIGzmD7AF4y0nvseVTEgSQ&scisig=AFWwaeYAAAAAZfC64nm51chShFYdFDdqc0Q5PTk&scisf=4&ct=citation&cd=-1&hl=en)
+  [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhai_Towards_Generic_Image_Manipulation_Detection_with_Weakly-Supervised_Self-Consistency_Learning_ICCV_2023_paper.pdf) [\[Code\]](https://github.com/yhZhai/WSCL) [\[Bibtex\]](bibtex/ICCV23_mani.html)[\[Demo\]](https://huggingface.co/spaces/yhzhai/WSCL)
   </div>
 </div>
 
@@ -114,9 +114,9 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
   <div class='paper-box-text' markdown="1">
   **<font size=3><font face="Times New Roman">High Fidelity 3D Hand Shape Reconstruction via Scalable Graph Frequency Decomposition</font></font>**
 
-  **<font face="Times New Roman">Tianyu Luan</font>**<font face="Times New Roman">, Yuanhao Zhai, Jingjing Meng, Zhong Li, Zhang Chen, Yi Xu, and Junsong Yuan. <em>CVPR 2023.</em></font>
+  **<font face="Times New Roman">Tianyu Luan</font>**<font face="Times New Roman">, Yuanhao Zhai, Jingjing Meng, Zhong Li, Zhang Chen, Yi Xu, and Junsong Yuan. <em>CVPR'2023</em></font>
 
-  [\[PDF\]](https://openaccess.thecvf.com/content/CVPR2023/papers/Luan_High_Fidelity_3D_Hand_Shape_Reconstruction_via_Scalable_Graph_Frequency_CVPR_2023_paper.pdf) [\[Code\]](https://github.com/tyluann/FreqHand) [\[Bibtex\]](https://scholar.googleusercontent.com/scholar.bib?q=info:TkgP5GwdpD8J:scholar.google.com/&output=citation&scisdr=ClH3cxfxEMHcyF-8vQk:AFWwaeYAAAAAZfC6pQl8tWvdJ7YFDkrmkV4JIR8&scisig=AFWwaeYAAAAAZfC6pTZJ437aoOraORBGhO8qNqY&scisf=4&ct=citation&cd=-1&hl=en)
+  [\[PDF\]](https://openaccess.thecvf.com/content/CVPR2023/papers/Luan_High_Fidelity_3D_Hand_Shape_Reconstruction_via_Scalable_Graph_Frequency_CVPR_2023_paper.pdf) [\[Code\]](https://github.com/tyluann/FreqHand) [\[Bibtex\]](bibtex/CVPR23_hand.html)
   </div>
 </div>
 
@@ -127,23 +127,23 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
   <div class='paper-box-text' markdown="1">
   **<font size=3><font face="Times New Roman">PC-HMR: Pose Calibration for 3D Human Mesh Recovery from 2D Images/Videos</font></font>**
 
-  **<font face="Times New Roman">Tianyu Luan*</font>**<font face="Times New Roman">, Yali Wang*, Junhao Zhang*, Zhe Wang, Zhipeng Zhou, and Yu Qiao. <em>AAAI 2021.</em></font>
+  **<font face="Times New Roman">Tianyu Luan*</font>**<font face="Times New Roman">, Yali Wang*, Junhao Zhang*, Zhe Wang, Zhipeng Zhou, and Yu Qiao. <em>AAAI'2021</em></font>
 
-  [\[PDF\]](https://ojs.aaai.org/index.php/AAAI/article/view/16326/16133) [\[Bibtex\]](https://scholar.googleusercontent.com/scholar.bib?q=info:4lzK9xf0e78J:scholar.google.com/&output=citation&scisdr=ClH3cxfxEMHcyF-8ZCc:AFWwaeYAAAAAZfC6fCcA-rqja44YY66Inlm7r70&scisig=AFWwaeYAAAAAZfC6fIr8NjsTbWPWdTmvcISQuew&scisf=4&ct=citation&cd=-1&hl=en)
+  [\[PDF\]](https://ojs.aaai.org/index.php/AAAI/article/view/16326/16133) [\[Bibtex\]](bibtex/AAAI2021_pchmr.html)
   </div>
 </div>
 
 
 <span class='anchor' id='teaching'></span>
 
-# 🧑‍🏫 Teaching
+# 👨‍🏫 Teaching
 - *21 Fall*, Teaching Assistant, Computer Vision and Image Processing (CSE 573), University at Buffalo.
 - *22 Spring*, Teaching Assistant, Computer Vision and Image Processing (CSE 573), University at Buffalo.
 - *22 Fall*, Teaching Assistant, Computer Vision and Image Processing (CSE 573), University at Buffalo.
 
 <span class='anchor' id='service'></span>
 
-# 🫴 Service
+# 👨‍🎓 Service
 - *Conference Reviews:* CVPR'23'24, ICCV'23, ECCV'24, ACM MM'24.
   
 <span class='anchor' id='experiences'></span>
@@ -151,7 +151,7 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
 # 💻 Experiences
 - *2024.02 - present*, Reseach Intern, [United Imaging Intelligence](https://usa.united-imaging.com/), Burlington, MA, United States. <br> Working with [Dr. Zhongpai Gao](https://sites.google.com/site/gaozhongpai) and [Dr. Ziyan Wu](http://wuziyan.com/).
 - *2023.05 - 2023.08*, Reseach Intern, [United Imaging Intelligence](https://usa.united-imaging.com/), Cambridge, MA, United States. <br> Worked with [Dr. Zhongpai Gao](https://sites.google.com/site/gaozhongpai) and [Dr. Ziyan Wu](http://wuziyan.com/).
-- *2022.05 - 2022.08*, Reseach Intern, [InnoPeak Technology](https://www.innopeaktech.com/), Palo Alto, CA, United States. <br> Worked with [Dr. Zhong Li](https://sites.google.com/site/lizhong19900216) and [Dr. Yi Xu](https://www.linkedin.com/in/yi-xu-42654823/).
+- *2022.05 - 2022.08*, Reseach Intern, [OPPO US Research Center](https://www.innopeaktech.com/), Palo Alto, CA, United States. <br> Worked with [Dr. Zhong Li](https://sites.google.com/site/lizhong19900216) and [Dr. Yi Xu](https://www.linkedin.com/in/yi-xu-42654823/).
 - *2019.07 - 2021.06*, Reseach Assistant, [Chinese Academy of Sciences](https://english.cas.cn/), Shenzhen, Guangdong, China. <br> Worked with [Prof. Yali Wang](https://scholar.google.com/citations?user=hD948dkAAAAJ&hl=zh-CN) and [Prof. Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ&hl=en).
 - *2017.05 - 2019.04*, Software Engineer, [HUAWEI](https://www.huawei.com/en/), Shenzhen, Guangdong, China.
 
