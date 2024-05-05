@@ -28,7 +28,8 @@ Tianyu Luan is a 3rd-year Ph.D. candidate of [Computer Science & Engineering Dep
 <span class='anchor' id='news'></span>
 
 # 🔥 News
-- *2024.03*: &nbsp;🎉🎉 I will join [Pixocial](https://pixocial.com/) as research intern this summer!
+- *2024.05*: &nbsp;🎉🎉 One paper accepted by ICML 2024!
+- *2024.03*: &nbsp;🎉🎉 I will join [Pixocial](https://pixocial.com/) as a research intern this summer!
 - *2024.02*: &nbsp;🎉🎉 Three papers accepted by CVPR 2024, including one first author paper!
 - *2024.02*: &nbsp;🎉🎉 I will join [UII America](https://www.uii-ai.com/) as research intern this spring for the 2nd time!
 - *2023.07*: &nbsp;🎉🎉 One paper accepted by ICCV 2023!
@@ -47,6 +48,20 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
 **Tianyu Luan**, Yuanhao Zhai, Jingjing Meng, Zhong Li, Zhang Chen, Yi Xu, and Junsong Yuan
 [PDF]() [Code]() [Bibtex]() -->
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div><div class="badge">ICML 2024</div><img src='images/papers/ICML24_FL.png' alt="sym" width="100%"></div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **<font size=3><font face="Times New Roman">MH-pFLID: Model Heterogeneous Personalized Federated Learning via Injection and Distillation for Medical Data Analysis</font></font>**
+
+  <font face="Times New Roman">Luyuan Xie, Manqing Lin, <b>Tianyu Luan<sup>✉</sup></b>, Cong Li, Yuejian Fang, Qingni Shen, and Zhonghai Wu. </font>
+  <font face="Times New Roman"><em>ICML'2024</em></font>
+
+  [\[PDF (Coming Soon)\]]() [\[Bibtex (Coming Soon)\]]() [\[Project (Coming Soon)\]]()  [\[Code (Coming Soon)\]]() <!-- [\[Bibtex\]]() -->
+  </div>
+</div>
+
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -55,7 +70,7 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
   <div class='paper-box-text' markdown="1">
   **<font size=3><font face="Times New Roman">Spectrum AUC Difference (SAUCD): Human-aligned 3D Shape Evaluation</font></font>**
 
-  <font face="Times New Roman"><b>Tianyu Luan</b>, Zhong Li, Lele Chen, Xuan Gong, Lichang Chen, Yi Xu, Junsong Yuan, and Junsong Yuan. </font>
+  <font face="Times New Roman"><b>Tianyu Luan</b>, Zhong Li, Lele Chen, Xuan Gong, Lichang Chen, Yi Xu, and Junsong Yuan. </font>
   <font face="Times New Roman"><em>CVPR'2024</em></font>
 
   [\[PDF\]](https://arxiv.org/pdf/2403.01619) [\[Bibtex\]](bibtex/CVPR24_metric.html) [\[Project (Coming Soon)\]](https://bit.ly/saucd)  [\[Code (Coming Soon)\]]() <!-- [\[Bibtex\]]() -->
@@ -69,7 +84,7 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
   <div class='paper-box-text' markdown="1">
   **<font size=3><font face="Times New Roman">FSC: Few-point Shape Completion</font></font>**
 
-  <font face="Times New Roman">Xianzu Wu, Xianfeng Wu, <b>Tianyu Luan</b>, Yajing Bai, Zhongyuan Lai, and Junsong Yuan.</font>
+  <font face="Times New Roman">Xianzu Wu*, Xianfeng Wu*, <b>Tianyu Luan</b>, Yajing Bai, Zhongyuan Lai, and Junsong Yuan.</font>
 
   <font face="Times New Roman"><em>CVPR'2024</em></font>
 
