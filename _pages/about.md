@@ -21,7 +21,7 @@ redirect_from:
 My research interest focuses 3D reconstruction. -->
 
 # 🧑 Short Bio
-Tianyu Luan is a 3rd-year Ph.D. candidate of [Computer Science & Engineering Department](https://engineering.buffalo.edu/computer-science-engineering.html), [State University of New York at Buffalo](https://www.buffalo.edu/), Buffalo NY, United States, advised by [Prof. Junsong Yuan](https://cse.buffalo.edu/~jsyuan/). He received his B.S. degree in Applied Physics at [University of Science and Technology of China](https://en.ustc.edu.cn/), Hefei Anhui, China in 2013, and his M.Eng. degree in Electronical and Telecommunication Engineering at [Tsinghua University](https://www.tsinghua.edu.cn/en/), Beijing, China in 2017. His research interest lies on 3D human perception prior & 3D generation.
+Tianyu Luan is a final-year Ph.D. candidate of [Computer Science & Engineering Department](https://engineering.buffalo.edu/computer-science-engineering.html), [State University of New York at Buffalo](https://www.buffalo.edu/), Buffalo NY, United States, advised by [Prof. Junsong Yuan](https://cse.buffalo.edu/~jsyuan/). He received his B.S. degree in Applied Physics at [University of Science and Technology of China](https://en.ustc.edu.cn/), Hefei Anhui, China in 2013, and his M.Eng. degree in Electronical and Telecommunication Engineering at [Tsinghua University](https://www.tsinghua.edu.cn/en/), Beijing, China in 2017. His research interest lies in 3D shape detail measurement, reconstruction, and generation.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -58,7 +58,7 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
   <font face="Times New Roman">Luyuan Xie, Manqing Lin, <b>Tianyu Luan<sup>✉</sup></b>, Cong Li, Yuejian Fang, Qingni Shen, and Zhonghai Wu. </font>
   <font face="Times New Roman"><em>ICML'2024</em></font>
 
-  [\[PDF (Coming Soon)\]]() [\[Bibtex (Coming Soon)\]]() [\[Project (Coming Soon)\]]()  [\[Code (Coming Soon)\]]() <!-- [\[Bibtex\]]() -->
+  [\[PDF\]](https://arxiv.org/pdf/2405.06822) [\[Bibtex\]](bibtex/ICML24_FL.html) [\[Project (Coming Soon)\]]()  [\[Code (Coming Soon)\]]() <!-- [\[Bibtex\]]() -->
   </div>
 </div>
 
@@ -164,7 +164,8 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
 <span class='anchor' id='experiences'></span>
 
 # 💻 Experiences
-- *2024.02 - present*, Reseach Intern, [United Imaging Intelligence](https://usa.united-imaging.com/), Burlington, MA, United States. <br> Working with [Dr. Zhongpai Gao](https://sites.google.com/site/gaozhongpai) and [Dr. Ziyan Wu](http://wuziyan.com/).
+- *2024.06 - present*, Reseach Intern, [Pixocial](https://pixocial.com/), Bellevue, WA, United States. <br> Working with [Dr. Haoxiang Li](https://resume.haoxiang.org/).
+- *2024.02 - 2024.05*, Reseach Intern, [United Imaging Intelligence](https://usa.united-imaging.com/), Burlington, MA, United States. <br> Worked with [Dr. Zhongpai Gao](https://sites.google.com/site/gaozhongpai) and [Dr. Ziyan Wu](http://wuziyan.com/).
 - *2023.05 - 2023.08*, Reseach Intern, [United Imaging Intelligence](https://usa.united-imaging.com/), Cambridge, MA, United States. <br> Worked with [Dr. Zhongpai Gao](https://sites.google.com/site/gaozhongpai) and [Dr. Ziyan Wu](http://wuziyan.com/).
 - *2022.05 - 2022.08*, Reseach Intern, [OPPO US Research Center](https://www.innopeaktech.com/), Palo Alto, CA, United States. <br> Worked with [Dr. Zhong Li](https://sites.google.com/site/lizhong19900216) and [Dr. Yi Xu](https://www.linkedin.com/in/yi-xu-42654823/).
 - *2019.07 - 2021.06*, Reseach Assistant, [Chinese Academy of Sciences](https://english.cas.cn/), Shenzhen, Guangdong, China. <br> Worked with [Prof. Yali Wang](https://scholar.google.com/citations?user=hD948dkAAAAJ&hl=zh-CN) and [Prof. Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ&hl=en).
