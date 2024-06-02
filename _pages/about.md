@@ -160,6 +160,7 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
 
 # 👨‍🎓 Service
 - *Conference Reviews:* CVPR'23'24, ICCV'23, ECCV'24, ACM MM'24.
+- *Joural Reviews:* IEEE TPAMI, MVA.
   
 <span class='anchor' id='experiences'></span>
 
