@@ -73,7 +73,7 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
   <font face="Times New Roman"><b>Tianyu Luan</b>, Zhong Li, Lele Chen, Xuan Gong, Lichang Chen, Yi Xu, and Junsong Yuan. </font>
   <font face="Times New Roman"><em>CVPR'2024</em></font>
 
-  [\[PDF\]](https://arxiv.org/pdf/2403.01619) [\[Bibtex\]](bibtex/CVPR24_metric.html) [\[Project (Coming Soon)\]](https://bit.ly/saucd)  [\[Code (Coming Soon)\]]() <!-- [\[Bibtex\]]() -->
+  [\[PDF\]](https://arxiv.org/pdf/2403.01619) [\[Bibtex\]](bibtex/CVPR24_metric.html) [\[Project\]](https://bit.ly/saucd)  [\[Code\]](https://github.com/tyluann/SAUCD) <!-- [\[Bibtex\]]() -->
   </div>
 </div>
 
