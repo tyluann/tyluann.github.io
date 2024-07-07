@@ -28,6 +28,7 @@ Tianyu Luan is a final-year Ph.D. candidate of [Computer Science & Engineering D
 <span class='anchor' id='news'></span>
 
 # 🔥 News
+- <p style="color: red;">I'm currently looking for a postdoc position in computer vision/generative AI related areas starting from 2025 summer. If you're interested, please drop me a message/email at any time!</p>
 - *2024.07*: &nbsp;🎉🎉 2 papers accepted by ECCV 2024, including 1 first author paper!
 - *2024.05*: &nbsp;🎉🎉 1 paper accepted by ICML 2024!
 - *2024.03*: &nbsp;🎉🎉 I will join [Pixocial](https://pixocial.com/) as a research intern this summer!
