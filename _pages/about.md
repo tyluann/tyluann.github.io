@@ -105,9 +105,9 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
 
   <font face="Times New Roman"><em>CVPR'2024</em></font>
 
-  [\[PDF\]](https://arxiv.org/pdf/2403.07359) [\[Bibtex\]](bibtex/CVPR24_PC.html) [\[Project (Coming Soon)\]]() [\[Code (Coming Soon)\]]() <!-- [\[Bibtex\]]() -->
+  [\[PDF\]](https://arxiv.org/pdf/2403.07359) [\[Bibtex\]](bibtex/CVPR24_PC.html) [\[Project (Coming Soon)\]]() [\[Code (Coming Soon)\]]()
   </div>
-</div> -->
+</div>  -->
 
 <!-- <div class='paper-box'>
   <div class='paper-box-image'>
@@ -120,7 +120,7 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
 
   <font face="Times New Roman"><em>CVPR'2024</em></font>
 
-  [\[PDF\]](https://arxiv.org/pdf/2403.02265) [\[Bibtex\]](bibtex/CVPR24_nerf.html) [\[Project (Coming Soon)\]]() [\[Code (Coming Soon)\]]() <!-- [\[Bibtex\]]() -->
+  [\[PDF\]](https://arxiv.org/pdf/2403.02265) [\[Bibtex\]](bibtex/CVPR24_nerf.html) [\[Project (Coming Soon)\]]() [\[Code (Coming Soon)\]]()
   </div>
 </div> -->
 
@@ -177,7 +177,7 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
 
 # 👨‍🎓 Service
 - *Conference Reviews:* CVPR'23'24, ICCV'23, ECCV'24, ACM MM'24.
-- *Joural Reviews:* IEEE TPAMI, MVA.
+- *Joural Reviews:* TPAMI, MVA.
   
 <span class='anchor' id='experiences'></span>
 
