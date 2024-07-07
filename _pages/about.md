@@ -21,20 +21,21 @@ redirect_from:
 My research interest focuses 3D reconstruction. -->
 
 # 🧑 Short Bio
-Tianyu Luan is a final-year Ph.D. candidate of [Computer Science & Engineering Department](https://engineering.buffalo.edu/computer-science-engineering.html), [State University of New York at Buffalo](https://www.buffalo.edu/), Buffalo NY, United States, advised by [Prof. Junsong Yuan](https://cse.buffalo.edu/~jsyuan/). He received his B.S. degree in Applied Physics at [University of Science and Technology of China](https://en.ustc.edu.cn/), Hefei Anhui, China in 2013, and his M.Eng. degree in Electronical and Telecommunication Engineering at [Tsinghua University](https://www.tsinghua.edu.cn/en/), Beijing, China in 2017. His research interest lies in [3D shape detail measurement, reconstruction, and generation](pdfs/Dissertation_proposal.pdf).
+Tianyu Luan is a final-year Ph.D. candidate of [Computer Science & Engineering Department](https://engineering.buffalo.edu/computer-science-engineering.html), [State University of New York at Buffalo](https://www.buffalo.edu/), Buffalo NY, United States, advised by [Prof. Junsong Yuan](https://cse.buffalo.edu/~jsyuan/). He received his B.S. degree in Applied Physics at [University of Science and Technology of China](https://en.ustc.edu.cn/), Hefei Anhui, China in 2013, and his M.Eng. degree in Electronical and Telecommunication Engineering at [Tsinghua University](https://www.tsinghua.edu.cn/en/), Beijing, China in 2017. His research interest lies in [3D shape detail measurement, reconstruction, and generation](pdfs/Dissertation_proposal.pdf). 
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 <span class='anchor' id='news'></span>
 
 # 🔥 News
-- *2024.05*: &nbsp;🎉🎉 One paper accepted by ICML 2024!
+- *2024.07*: &nbsp;🎉🎉 2 papers accepted by ECCV 2024, including 1 first author paper!
+- *2024.05*: &nbsp;🎉🎉 1 paper accepted by ICML 2024!
 - *2024.03*: &nbsp;🎉🎉 I will join [Pixocial](https://pixocial.com/) as a research intern this summer!
-- *2024.02*: &nbsp;🎉🎉 Three papers accepted by CVPR 2024, including one first author paper!
+- *2024.02*: &nbsp;🎉🎉 3 papers accepted by CVPR 2024, including 1 first author paper!
 - *2024.02*: &nbsp;🎉🎉 I will join [UII America](https://www.uii-ai.com/) as research intern this spring for the 2nd time!
-- *2023.07*: &nbsp;🎉🎉 One paper accepted by ICCV 2023!
+- *2023.07*: &nbsp;🎉🎉 1 paper accepted by ICCV 2023!
 - *2023.05*: &nbsp;🎉🎉 I will join [UII America](https://www.uii-ai.com/) as research intern this summer!
-- *2023.02*: &nbsp;🎉🎉 One first author paper accepted by CVPR 2023!
+- *2023.02*: &nbsp;🎉🎉 1 first author paper accepted by CVPR 2023!
 - *2022.05*: &nbsp;🎉🎉 I will join [OPPO US Research Center](https://www.innopeaktech.com/) as research intern this summer.
 
 
@@ -47,6 +48,22 @@ Tianyu Luan is a final-year Ph.D. candidate of [Computer Science & Engineering D
 High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomposition
 **Tianyu Luan**, Yuanhao Zhai, Jingjing Meng, Zhong Li, Zhang Chen, Yi Xu, and Junsong Yuan
 [PDF]() [Code]() [Bibtex]() -->
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div><div class="badge">ECCV 2024</div><img src='images/papers/ECCV24_PartBody.png' alt="sym" width="100%"></div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **<font size=3><font face="Times New Roman">Divide and Fuse: Body Part Mesh Recovery from Partially Visible Human Images</font></font>**
+
+  <font face="Times New Roman"><b>Tianyu Luan</b>, Zhongpai Gao, Luyuan Xie, Abhishek Sharma, Hao Ding, Benjamin Planche, Meng Zheng, Ange Lou, Terrence Chen, Junsong Yuan, and Ziyan Wu. </font>
+  <font face="Times New Roman"><em>ECCV'2024</em></font>
+
+  [\[PDF (Coming Soon)\]]() [\[Bibtex (Coming Soon)\]](bibtex/ECCV24_PartBody.html) [\[Project (Coming Soon)\]](https://bit.ly/DaF) 
+  </div>
+</div>
+
+
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -77,7 +94,7 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
   </div>
 </div>
 
-<div class='paper-box'>
+<!-- <div class='paper-box'>
   <div class='paper-box-image'>
     <div><div class="badge">CVPR 2024</div><img src='images/papers/CVPR24_PC.png' alt="sym" width="100%"></div>
   </div>
@@ -90,9 +107,9 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
 
   [\[PDF\]](https://arxiv.org/pdf/2403.07359) [\[Bibtex\]](bibtex/CVPR24_PC.html) [\[Project (Coming Soon)\]]() [\[Code (Coming Soon)\]]() <!-- [\[Bibtex\]]() -->
   </div>
-</div>
+</div> -->
 
-<div class='paper-box'>
+<!-- <div class='paper-box'>
   <div class='paper-box-image'>
     <div><div class="badge">CVPR 2024</div><img src='images/papers/CVPR24_nerf.gif' alt="sym" width="100%"></div>
   </div>
@@ -105,10 +122,10 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
 
   [\[PDF\]](https://arxiv.org/pdf/2403.02265) [\[Bibtex\]](bibtex/CVPR24_nerf.html) [\[Project (Coming Soon)\]]() [\[Code (Coming Soon)\]]() <!-- [\[Bibtex\]]() -->
   </div>
-</div>
+</div> -->
 
 
-<div class='paper-box'>
+<!-- <div class='paper-box'>
   <div class='paper-box-image'>
     <div><div class="badge">ICCV 2023</div><img src='images/papers/ICCV23.png' alt="sym" width="100%"></div>
   </div>
@@ -119,7 +136,7 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
 
   [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhai_Towards_Generic_Image_Manipulation_Detection_with_Weakly-Supervised_Self-Consistency_Learning_ICCV_2023_paper.pdf) [\[Code\]](https://github.com/yhZhai/WSCL) [\[Bibtex\]](bibtex/ICCV23_mani.html)[\[Demo\]](https://huggingface.co/spaces/yhzhai/WSCL)
   </div>
-</div>
+</div> -->
 
 
 <div class='paper-box'>
