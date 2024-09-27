@@ -60,7 +60,7 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
   <font face="Times New Roman"><b>Tianyu Luan</b>, Zhongpai Gao, Luyuan Xie, Abhishek Sharma, Hao Ding, Benjamin Planche, Meng Zheng, Ange Lou, Terrence Chen, Junsong Yuan, and Ziyan Wu. </font>
   <font face="Times New Roman"><em>ECCV'2024</em></font>
 
-  [\[PDF (Coming Soon)\]]() [\[Bibtex (Coming Soon)\]](bibtex/ECCV24_PartBody.html) [\[Project (Coming Soon)\]](https://bit.ly/DaF) 
+  [\[PDF\]](https://arxiv.org/pdf/2407.09694) [\[Bibtex\]](bibtex/ECCV24_PartBody.html) [\[Project\]](https://bit.ly/DaF) 
   </div>
 </div>
 
@@ -76,7 +76,7 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
   <font face="Times New Roman">Luyuan Xie, Manqing Lin, <b>Tianyu Luan<sup>✉</sup></b>, Cong Li, Yuejian Fang, Qingni Shen, and Zhonghai Wu. </font>
   <font face="Times New Roman"><em>ICML'2024</em></font>
 
-  [\[PDF\]](https://arxiv.org/pdf/2405.06822) [\[Bibtex\]](bibtex/ICML24_FL.html) [\[Project (Coming Soon)\]]()  [\[Code (Coming Soon)\]]() <!-- [\[Bibtex\]]() -->
+  [\[PDF\]](https://arxiv.org/pdf/2405.06822) [\[Bibtex\]](bibtex/ICML24_FL.html)
   </div>
 </div>
 
