@@ -28,7 +28,6 @@ Tianyu Luan is a final-year Ph.D. candidate of [Computer Science & Engineering D
 <span class='anchor' id='news'></span>
 
 # 🔥 News
-- <p style="color: red;">I'm currently looking for a postdoc position in computer vision/generative AI related areas starting from 2025 summer!</p>
 - *2024.07*: &nbsp;🎉🎉 2 papers accepted by ECCV 2024, including 1 first author paper!
 - *2024.05*: &nbsp;🎉🎉 1 paper accepted by ICML 2024!
 - *2024.03*: &nbsp;🎉🎉 I will join [Pixocial](https://pixocial.com/) as a research intern this summer!
@@ -173,6 +172,7 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
 - *21 Fall*, Teaching Assistant, Computer Vision and Image Processing (CSE 573), University at Buffalo.
 - *22 Spring*, Teaching Assistant, Computer Vision and Image Processing (CSE 573), University at Buffalo.
 - *22 Fall*, Teaching Assistant, Computer Vision and Image Processing (CSE 573), University at Buffalo.
+- *24 Fall*, Teaching Assistant, Computer Vision and Image Processing (CSE 573), University at Buffalo.
 
 <span class='anchor' id='service'></span>
 
@@ -183,7 +183,7 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
 <span class='anchor' id='experiences'></span>
 
 # 💻 Experiences
-- *2024.06 - present*, Reseach Intern, [Pixocial](https://pixocial.com/), Bellevue, WA, United States. <br> Working with [Dr. Haoxiang Li](https://resume.haoxiang.org/).
+- *2024.06 - 2024.08*, Reseach Intern, [Pixocial](https://pixocial.com/), Bellevue, WA, United States. <br> Working with [Dr. Haoxiang Li](https://resume.haoxiang.org/).
 - *2024.02 - 2024.05*, Reseach Intern, [United Imaging Intelligence](https://usa.united-imaging.com/), Burlington, MA, United States. <br> Worked with [Dr. Zhongpai Gao](https://sites.google.com/site/gaozhongpai) and [Dr. Ziyan Wu](http://wuziyan.com/).
 - *2023.05 - 2023.08*, Reseach Intern, [United Imaging Intelligence](https://usa.united-imaging.com/), Cambridge, MA, United States. <br> Worked with [Dr. Zhongpai Gao](https://sites.google.com/site/gaozhongpai) and [Dr. Ziyan Wu](http://wuziyan.com/).
 - *2022.05 - 2022.08*, Reseach Intern, [OPPO US Research Center](https://www.innopeaktech.com/), Palo Alto, CA, United States. <br> Worked with [Dr. Zhong Li](https://sites.google.com/site/lizhong19900216) and [Dr. Yi Xu](https://www.linkedin.com/in/yi-xu-42654823/).
