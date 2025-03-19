@@ -204,6 +204,7 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
 # 👨‍🏫 Teaching
 - *21 Fall*, Teaching Assistant, Computer Vision and Image Processing (CSE 573), University at Buffalo.
 - *22 Spring*, Teaching Assistant, Computer Vision and Image Processing (CSE 573), University at Buffalo.
+- *22 Spring*, Guest Instructor, Seminar (on Computer Vision)(CSE 710), University at Buffalo.
 - *22 Fall*, Teaching Assistant, Computer Vision and Image Processing (CSE 573), University at Buffalo.
 - *24 Fall*, Teaching Assistant, Computer Vision and Image Processing (CSE 573), University at Buffalo.
 - *25 Spring*, Teaching Assistant, Computer Vision and Image Processing (CSE 573), University at Buffalo.
