@@ -21,13 +21,16 @@ redirect_from:
 My research interest focuses 3D reconstruction. -->
 
 # 🧑 Short Bio
-Tianyu Luan is a final-year Ph.D. candidate of [Computer Science & Engineering Department](https://engineering.buffalo.edu/computer-science-engineering.html), [State University of New York at Buffalo](https://www.buffalo.edu/), Buffalo NY, United States, advised by [Prof. Junsong Yuan](https://cse.buffalo.edu/~jsyuan/). He received his B.S. degree in Applied Physics at [University of Science and Technology of China](https://en.ustc.edu.cn/), Hefei Anhui, China in 2013, and his M.Eng. degree in Electronical and Telecommunication Engineering at [Tsinghua University](https://www.tsinghua.edu.cn/en/), Beijing, China in 2017. His research interest lies in [3D shape detail measurement, reconstruction, and generation](pdfs/Dissertation_proposal.pdf). 
+Tianyu Luan is a final-year Ph.D. candidate of [Computer Science & Engineering Department](https://engineering.buffalo.edu/computer-science-engineering.html), [State University of New York at Buffalo](https://www.buffalo.edu/), Buffalo NY, United States, advised by [Prof. Junsong Yuan](https://cse.buffalo.edu/~jsyuan/). He received his B.S. degree in Applied Physics at [University of Science and Technology of China](https://en.ustc.edu.cn/), Hefei Anhui, China, and his M.Eng. degree in Electronical and Telecommunication Engineering at [Tsinghua University](https://www.tsinghua.edu.cn/en/), Beijing, China. His research interest lies in [3D shape detail measurement, reconstruction, and generation](pdfs/Dissertation_proposal.pdf). He serves as a reviewer/program committee member in CVPR, ICCV, ECCV, AAAI, IJCAI, ACM MM, etc.. He also serves as a reviewer for T-PAMI, T-CSVT, MVA, and T-MM.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 <span class='anchor' id='news'></span>
 
 # 🔥 News
+- *2025.03*: &nbsp;🎉🎉 I will join [Accenture](https://www.accenture.com/us-en) at Mountain View, CA, as a research manager this summer!
+- *2025.03*: &nbsp;🎉🎉 Our papers "Scalable High-Fidelity 3D Hand Shape Reconstruction via Graph-Image Frequency Mapping and Graph Frequency Decomposition" is accepted by T-PAMI!
+- *2025.02*: &nbsp;🎉🎉 1 papers accepted by CVPR 2025!
 - *2024.07*: &nbsp;🎉🎉 2 papers accepted by ECCV 2024, including 1 first author paper!
 - *2024.05*: &nbsp;🎉🎉 1 paper accepted by ICML 2024!
 - *2024.03*: &nbsp;🎉🎉 I will join [Pixocial](https://pixocial.com/) as a research intern this summer!
@@ -48,6 +51,36 @@ Tianyu Luan is a final-year Ph.D. candidate of [Computer Science & Engineering D
 High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomposition
 **Tianyu Luan**, Yuanhao Zhai, Jingjing Meng, Zhong Li, Zhang Chen, Yi Xu, and Junsong Yuan
 [PDF]() [Code]() [Bibtex]() -->
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div><div class="badge">T-PAMI 2025</div><img src='images/papers/TPAMI25_FreqHand2.png' alt="sym" width="100%"></div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **<font size=3><font face="Times New Roman">Scalable High-Fidelity 3D Hand Shape Reconstruction via Graph-Image Frequency Mapping and Graph Frequency Decomposition</font></font>**
+
+  <font face="Times New Roman"><b>Tianyu Luan</b>, Yuanhao Zhai, Jingjing Meng, Zhong Li, Zhang Chen, Yi Xu, and Junsong Yuan.</font>
+  <font face="Times New Roman"><em>T-PAMI'2025</em></font>
+
+  [\[PDF (coming soon)\]]() [\[Bibtex (coming soon)\]]() [\[Code (coming soon)\]]() 
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div><div class="badge">CVPR 2025</div><img src='images/papers/CVPR25_dFLMoE.png' alt="sym" width="100%"></div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **<font size=3><font face="Times New Roman">dFLMoE: Decentralized Federated Learning via Mixture of Experts for Medical Data Analysis</font></font>**
+
+  <font face="Times New Roman">Luyuan Xie, <b>Tianyu Luan<sup>✉</sup></b>, Wenyuan Cai, Guochen Yan, Zhaoyu Chen, Nan Xi, Yuejian Fang, Qingni Shen, Zhonghai Wu, and Junsong Yuan.</font>
+  <font face="Times New Roman"><em>CVPR'2025</em></font>
+
+  [\[PDF\]](https://arxiv.org/pdf/2503.10412) [\[Bibtex\]](bibtex/CVPR25_dFLMoE.html)
+  </div>
+</div>
+
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -173,12 +206,13 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
 - *22 Spring*, Teaching Assistant, Computer Vision and Image Processing (CSE 573), University at Buffalo.
 - *22 Fall*, Teaching Assistant, Computer Vision and Image Processing (CSE 573), University at Buffalo.
 - *24 Fall*, Teaching Assistant, Computer Vision and Image Processing (CSE 573), University at Buffalo.
+- *25 Spring*, Teaching Assistant, Computer Vision and Image Processing (CSE 573), University at Buffalo.
 
 <span class='anchor' id='service'></span>
 
 # 👨‍🎓 Service
-- *Conference Reviews:* CVPR'23'24, ICCV'23, ECCV'24, ACM MM'24.
-- *Joural Reviews:* TPAMI, MVA.
+- *Conference Reviews:* CVPR'23'24'25, ICCV'23'25, ECCV'24, ACM MM'24, IJCAI'25.
+- *Joural Reviews:* T-PAMI, MVA, T-CSVT, T-MM.
   
 <span class='anchor' id='experiences'></span>
 
