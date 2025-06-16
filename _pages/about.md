@@ -21,7 +21,7 @@ redirect_from:
 My research interest focuses 3D reconstruction. -->
 
 # 🧑 Short Bio
-Tianyu Luan is a final-year Ph.D. candidate of [Computer Science & Engineering Department](https://engineering.buffalo.edu/computer-science-engineering.html), [State University of New York at Buffalo](https://www.buffalo.edu/), Buffalo NY, United States, advised by [Prof. Junsong Yuan](https://cse.buffalo.edu/~jsyuan/). He received his B.S. degree in Applied Physics at [University of Science and Technology of China](https://en.ustc.edu.cn/), Hefei Anhui, China, and his M.Eng. degree in Electronical and Telecommunication Engineering at [Tsinghua University](https://www.tsinghua.edu.cn/en/), Beijing, China. His research interest lies in [3D shape detail measurement, reconstruction, and generation](pdfs/Dissertation_proposal.pdf). He serves as a reviewer/program committee member in CVPR, ICCV, ECCV, AAAI, IJCAI, ACM MM, etc.. He also serves as a reviewer for T-PAMI, T-CSVT, MVA, and T-MM.
+Tianyu Luan is research scientist manager at [Accenture](https://www.accenture.com/us-en). Previous to Accenture, he received Ph.D. in computer science in [State University of New York at Buffalo](https://www.buffalo.edu/), Buffalo NY, United States, advised by [Prof. Junsong Yuan](https://cse.buffalo.edu/~jsyuan/). He received his B.S. degree in Applied Physics at [University of Science and Technology of China](https://en.ustc.edu.cn/), Hefei Anhui, China, and his M.Eng. degree in Electronical and Telecommunication Engineering at [Tsinghua University](https://www.tsinghua.edu.cn/en/), Beijing, China. His research interest lies in 3D Fidelity Evaluation and Generation. He serves as a reviewer/program committee member in CVPR, ICCV, ECCV, NeurIPS, etc.. He also serves as a reviewer for T-PAMI, T-CSVT, MVA, and T-MM.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -63,7 +63,7 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
   <font face="Times New Roman"><b>Tianyu Luan</b>, Yuanhao Zhai, Jingjing Meng, Zhong Li, Zhang Chen, Yi Xu, and Junsong Yuan.</font>
   <font face="Times New Roman"><em>T-PAMI'2025</em></font>
 
-  [\[PDF (coming soon)\]]() [\[Bibtex (coming soon)\]]() [\[Code (coming soon)\]]() 
+  [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/10938718) [\[Bibtex\]](bibtex/TPAMI25_FreqHand.html) [\[Code (coming soon)\]]() 
   </div>
 </div>
 
@@ -212,12 +212,13 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
 <span class='anchor' id='service'></span>
 
 # 👨‍🎓 Service
-- *Conference Reviews:* CVPR'23'24'25, ICCV'23'25, ECCV'24, ACM MM'24, IJCAI'25.
+- *Conference Reviews:* CVPR'23'24'25, ICCV'23'25, ECCV'24, ACM MM'24'25, IJCAI'25, NeurIPS'25.
 - *Joural Reviews:* T-PAMI, MVA, T-CSVT, T-MM.
   
 <span class='anchor' id='experiences'></span>
 
 # 💻 Experiences
+- *2024.06 - 2024.08*, Reseach Scientist Manager, [Accenture](https://www.accenture.com/), Mountain View, CA, United States.
 - *2024.06 - 2024.08*, Reseach Intern, [Pixocial](https://pixocial.com/), Bellevue, WA, United States. <br> Working with [Dr. Haoxiang Li](https://resume.haoxiang.org/).
 - *2024.02 - 2024.05*, Reseach Intern, [United Imaging Intelligence](https://usa.united-imaging.com/), Burlington, MA, United States. <br> Worked with [Dr. Zhongpai Gao](https://sites.google.com/site/gaozhongpai) and [Dr. Ziyan Wu](http://wuziyan.com/).
 - *2023.05 - 2023.08*, Reseach Intern, [United Imaging Intelligence](https://usa.united-imaging.com/), Cambridge, MA, United States. <br> Worked with [Dr. Zhongpai Gao](https://sites.google.com/site/gaozhongpai) and [Dr. Ziyan Wu](http://wuziyan.com/).
@@ -228,6 +229,6 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
 <span class='anchor' id='educations'></span>
 
 # 📖 Educations
-- *2021.08 - present*, Ph.D. candidate in Computer Science, [University at Buffalo](https://www.buffalo.edu/), Buffalo, NY, United States
+- *2021.08 - 2025.06*, Ph.D. in Computer Science, [University at Buffalo](https://www.buffalo.edu/), Buffalo, NY, United States [\[Proposal\]](pdfs/Dissertation_proposal.pdf) [\[Thesis\]](pdfs/Thesis.pdf) 
 - *2014.09 - 2017.06*, M.Eng. in Electronical Engineering, [Tsinghua University](https://www.tsinghua.edu.cn/en/), Beijing, China
 - *2009.08 - 2013.07*, B.S. in Applied Physics, [University of Science and Technology of China](https://en.ustc.edu.cn/), Hefei, Anhui, China
