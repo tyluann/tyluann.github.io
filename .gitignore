@@ -3,3 +3,18 @@ push.sh
 .DS_Store
 .vscode/settings.json
 .vscode-upload.json
+
+# bundler / jekyll local install
+.bundle/
+vendor/
+Gemfile.lock
+
+# playwright MCP cache
+.playwright-mcp/
+
+# claude code local config
+.claude/
+CLAUDE.md
+
+# screenshots from local preview / debugging
+/*.png

@@ -28,6 +28,9 @@ Tianyu Luan is research scientist manager at [Accenture](https://www.accenture.c
 <span class='anchor' id='news'></span>
 
 # 🔥 News
+- *2026.02*: &nbsp;🎉🎉 2 papers accepted by CVPR 2026!
+- *2025.11*: &nbsp;🎉🎉 2 papers accepted by AAAI 2026, including 1 first author paper!
+- *2025.07*: &nbsp;🎉🎉 1 paper accepted by ACM MM 2025!
 - *2025.03*: &nbsp;🎉🎉 I will join [Accenture](https://www.accenture.com/us-en) at Mountain View, CA, as a research manager this summer!
 - *2025.03*: &nbsp;🎉🎉 Our papers "Scalable High-Fidelity 3D Hand Shape Reconstruction via Graph-Image Frequency Mapping and Graph Frequency Decomposition" is accepted by T-PAMI!
 - *2025.02*: &nbsp;🎉🎉 1 papers accepted by CVPR 2025!
@@ -55,6 +58,48 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
 
 <div class='paper-box'>
   <div class='paper-box-image'>
+    <div><div class="badge">AAAI 2026</div><img src='images/papers/AAAI26_TexGeo.png' alt="sym" width="100%"></div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **<font size=3><font face="Times New Roman">Textured Geometry Evaluation: Perceptual 3D Textured Shape Metric via 3D Latent-Geometry Network</font></font>**
+
+  <font face="Times New Roman"><b>Tianyu Luan</b>, Xuelu Feng, Zixin Zhu, Phani Nuney, Sheng Liu, Xuan Gong, David Doermann, Chunming Qiao, and Junsong Yuan.</font>
+  <font face="Times New Roman"><em>AAAI'2026</em></font>
+
+  [\[PDF\]](https://arxiv.org/pdf/2512.01380) [\[Bibtex\]](bibtex/AAAI26_TexGeo.html)
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div><div class="badge">AAAI 2026</div><img src='images/papers/AAAI26_SRAM.png' alt="sym" width="100%"></div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **<font size=3><font face="Times New Roman">SRAM: Shape-Realism Alignment Metric for No Reference 3D Shape Evaluation</font></font>**
+
+  <font face="Times New Roman">Sheng Liu, <b>Tianyu Luan<sup>✉</sup></b>, Phani Nuney, Xuelu Feng, and Junsong Yuan.</font>
+  <font face="Times New Roman"><em>AAAI'2026</em></font>
+
+  [\[PDF\]](https://arxiv.org/pdf/2512.01373) [\[Bibtex\]](bibtex/AAAI26_SRAM.html)
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div><div class="badge">ACM MM 2025</div><img src='images/papers/MM25_PPMotion.png' alt="sym" width="100%"></div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **<font size=3><font face="Times New Roman">PP-Motion: Physical-Perceptual Fidelity Evaluation for Human Motion Generation</font></font>**
+
+  <font face="Times New Roman">Sihan Zhao, Zixuan Wang, <b>Tianyu Luan<sup>✉</sup></b>, Jia Jia<sup>✉</sup>, Wentao Zhu, Jiebo Luo, Junsong Yuan, and Nan Xi.</font>
+  <font face="Times New Roman"><em>ACM MM'2025</em></font>
+
+  [\[PDF\]](https://arxiv.org/pdf/2508.08179) [\[Bibtex\]](bibtex/MM25_PPMotion.html) [\[Code\]](https://github.com/Sarah816/PP-Motion)
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
     <div><div class="badge">T-PAMI 2025</div><img src='images/papers/TPAMI25_FreqHand2.png' alt="sym" width="100%"></div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -63,7 +108,7 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
   <font face="Times New Roman"><b>Tianyu Luan</b>, Yuanhao Zhai, Jingjing Meng, Zhong Li, Zhang Chen, Yi Xu, and Junsong Yuan.</font>
   <font face="Times New Roman"><em>T-PAMI'2025</em></font>
 
-  [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/10938718) [\[Bibtex\]](bibtex/TPAMI25_FreqHand.html) [\[Code (coming soon)\]]() 
+  [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/10938718) [\[Bibtex\]](bibtex/TPAMI25_FreqHand.html)
   </div>
 </div>
 
@@ -212,13 +257,13 @@ High Fidelity 3D Hand Shape Reconstruction\\ via Scalable Graph Frequency Decomp
 <span class='anchor' id='service'></span>
 
 # 👨‍🎓 Service
-- *Conference Reviews:* CVPR'23'24'25, ICCV'23'25, ECCV'24, ACM MM'24'25, IJCAI'25, NeurIPS'25.
+- *Conference Reviews:* CVPR'23-'26, ICCV'23'25, ECCV'24, ACM MM'24'25'26, IJCAI'25'26, NeurIPS'25'26.
 - *Joural Reviews:* T-PAMI, MVA, T-CSVT, T-MM.
   
 <span class='anchor' id='experiences'></span>
 
 # 💻 Experiences
-- *2024.06 - 2024.08*, Reseach Scientist Manager, [Accenture](https://www.accenture.com/), Mountain View, CA, United States.
+- *2025.06 - Now*, Reseach Scientist Manager, [Accenture](https://www.accenture.com/), Mountain View, CA, United States.
 - *2024.06 - 2024.08*, Reseach Intern, [Pixocial](https://pixocial.com/), Bellevue, WA, United States. <br> Working with [Dr. Haoxiang Li](https://resume.haoxiang.org/).
 - *2024.02 - 2024.05*, Reseach Intern, [United Imaging Intelligence](https://usa.united-imaging.com/), Burlington, MA, United States. <br> Worked with [Dr. Zhongpai Gao](https://sites.google.com/site/gaozhongpai) and [Dr. Ziyan Wu](http://wuziyan.com/).
 - *2023.05 - 2023.08*, Reseach Intern, [United Imaging Intelligence](https://usa.united-imaging.com/), Cambridge, MA, United States. <br> Worked with [Dr. Zhongpai Gao](https://sites.google.com/site/gaozhongpai) and [Dr. Ziyan Wu](http://wuziyan.com/).
